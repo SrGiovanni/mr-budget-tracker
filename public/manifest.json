@@ -1,0 +1,21 @@
+{
+    "name": "Mr. Budget the Budget Tracker",
+    "short_name": "Mr. Budget",
+    "description": "An app that allows you to view and track expenses and deposits.",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "start_url": "public/index.html",
+    "display": "fullscreen",
+    "icons": [
+        {
+          "src": "public/icons/icon-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "public/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+}
