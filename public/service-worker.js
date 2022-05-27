@@ -1,9 +1,9 @@
 const FILES_TO_CACHE = [
-   './index.html',
-    './css/styles.css',
-    './js/index.js',
-    './idb.js',
-    './manifest.json'
+  './index.html',
+  './css/styles.css',
+  './js/index.js',
+  './js/idb.js',
+  './manifest.json'
 ];
 
 const APP_PREFIX = 'MrBudget-';     
